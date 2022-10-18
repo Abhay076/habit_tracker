@@ -1,11 +1,13 @@
-# GroupTest-2
-![habits](https://user-images.githubusercontent.com/91711234/160292382-9a19afa6-3d69-4713-b607-adfe778d13c6.png)
+# habit-tracker-web-application
+![img1](https://user-images.githubusercontent.com/91711234/196355147-f8e70f84-0b90-49d8-98f0-528760c887f0.png)
 
 
 
 
-![habits2](https://user-images.githubusercontent.com/91711234/160292413-6aacc42f-3d6f-4d84-9b81-6199a1819b41.png)
+
+![img2](https://user-images.githubusercontent.com/91711234/196355319-10086bce-c9f4-4620-a6ca-1a4206334fca.png)
 
 
-Simple run our application using => npm start
+## how to start my project to your local system.
+     `npm start`
 
